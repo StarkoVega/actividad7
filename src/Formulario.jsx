@@ -48,8 +48,8 @@ const Formulario = () => {
       }
     }
 
-    axb = axb.join(",");
-    bxa = bxa.join(",");
+    axb = axb.join(", ");
+    bxa = bxa.join(", ");
 
     setOutput({
       AxB: axb,
