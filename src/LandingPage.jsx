@@ -1,8 +1,8 @@
 const LandingPage = () => {
   return (
-    <div className="container">
-      <div className="row">
-        <div className="col text-center">
+    <div className="container landing">
+      <div className="row justify-content-center">
+        <div className="col-md-8 text-center">
           <h1 className="display-1">Producto Cartesiano</h1>
           <p className="lead">
             En matemáticas, el producto cartesiano de dos conjuntos es una
